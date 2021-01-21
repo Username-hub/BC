@@ -1,11 +1,2 @@
-Pre navigaciu robotov v prostredi je dolezite mat mapu miesnosti v ktorej sa robot nachadza.
-
- V pripade kedy mapau vytvarame v processe jednym z najvčišich problemov je to ako umiestnit kameru aby najrychlejsie a najpresnejšie vytvorit mapu prostredia.
-
-Aby vyrisit tento problem existuje mnozstvo algoritmov view palnning.
-
-Cielom tejt prace je pomocom simulacie porovnat existujuce algoritmy view planing.
-
-Vysledkom prace by mala byt overenie efektyvnosti metod view palnnig.
-
-Pre navigáciu robota v prostredí je dôležitá mať mapu miestnosti, v ktorej sa robot nachádza. V prípade kedy mapu vytvárame v procese navigácie  jedným z najväčších problémov je to, ako umiestniť kameru, aby najrýchlejšie a najpresnejšie vytvoriť mapu prostredia.Aby vyriešiť tento problém existuje množstvo algoritmov view palnning. Cieľom tejto práce je pomocou simulácie porovnať existujúce algoritmy view planing.Výsledkom práce by malo byt overenie efektívnosti metód view palnnig.
+Pre vytvorenie mapy prostredia potrebujeme hlbkovu kameru s moznostou montaze na robota a obycajnou kamerou pre kontrolu. Kamera ma IR senzor pomocu ktoreho je mozne zsitit vzdialenost k bodu na ploche na ktoru pozera kamera a vytvorit mapu prostredia okolo kamery
+[https://en.wikipedia.org/wiki/Kinect]
