@@ -1,2 +1,0 @@
-Pre vytvorenie mapy prostredia potrebujeme hlbkovu kameru s moznostou montaze na robota a obycajnou kamerou pre kontrolu. Kamera ma IR senzor pomocu ktoreho je mozne zsitit vzdialenost k bodu na ploche na ktoru pozera kamera a vytvorit mapu prostredia okolo kamery
-[https://en.wikipedia.org/wiki/Kinect]
